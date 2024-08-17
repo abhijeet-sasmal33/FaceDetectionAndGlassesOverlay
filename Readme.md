@@ -6,7 +6,7 @@ This project utilizes face recognition to detect faces in images and then overla
 
 Clone the repository:
 
-```git clone https://github.com/<your-username>/<repository-name>.git```
+```git clone git@github.com:abhijeet-sasmal33/FaceDetectionAndGlassesOverlay.git```
 
 Install dependencies:
 The required packages are listed in the requirements.txt file. You can install them using pip:
